@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Monster Mayhem
 subtitle: Get Up and Running with Awake
 category:
   - About Awake
