@@ -1,5 +1,5 @@
 ---
-title: ResourceGrid.vue
+title: TMNT
 subtitle: Easily Display Grid of Posts/Categories Throughout the Site
 category:
   - About Awake
