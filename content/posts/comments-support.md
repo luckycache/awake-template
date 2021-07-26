@@ -1,5 +1,5 @@
 ---
-title: Comments Support
+title: Back To The Future
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
