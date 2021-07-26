@@ -1,5 +1,5 @@
 ---
-title: Light CSS Footprint
+title: Stand by me
 subtitle: Purge CSS Bundles Only the Required CSS
 category:
   - About Awake
